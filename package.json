@@ -41,7 +41,7 @@
     "glob": "^4.0.5",
     "has": "^1.0.0",
     "htmlescape": "^1.1.0",
-    "http-browserify": "^1.4.0",
+    "http-browserify": "anandthakker/http-browserify#i45-firefox_xhr_responsetype",
     "https-browserify": "~0.0.0",
     "inherits": "~2.0.1",
     "insert-module-globals": "^6.4.1",
